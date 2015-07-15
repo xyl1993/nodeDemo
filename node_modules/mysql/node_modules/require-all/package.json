@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/"
+  },
+  "name": "require-all",
+  "description": "An easy way to require all files within a directory.",
+  "version": "0.0.3",
+  "repository": {
+    "url": ""
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "_npmUser": {
+    "name": "felixge",
+    "email": "felix@debuggable.com"
+  },
+  "_id": "require-all@0.0.3",
+  "_engineSupported": true,
+  "_npmVersion": "1.0.106",
+  "_nodeVersion": "v0.4.13-pre",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "051e192246c00d399bfe6164bc4e810bc588e01a",
+    "tarball": "http://registry.npmjs.org/require-all/-/require-all-0.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "felixge",
+      "email": "felix@debuggable.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "051e192246c00d399bfe6164bc4e810bc588e01a",
+  "_from": "require-all@0.0.3",
+  "_resolved": "https://registry.npmjs.org/require-all/-/require-all-0.0.3.tgz"
+}
