@@ -45,3 +45,8 @@ supervisor ./www/bin
 通过supervisor启动，每次修改文件都会自动启动
 
 或者通过npm start启动
+
+http://localhost:3000/
+未登录跳转到login页面
+
+http://localhost:3000/register为注册页
