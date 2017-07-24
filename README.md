@@ -41,7 +41,7 @@ exprass路由配置
 node启动文件，基本全局配置及组件配置
 
 #启动方式
-supervisor ./www/bin
+supervisor ./bin/www
 通过supervisor启动，每次修改文件都会自动启动
 
 或者通过npm start启动
