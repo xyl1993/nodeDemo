@@ -1,3 +1,5 @@
+# 此项目已停止维护好多年，连package.json都没有 ，有兴趣的请转至https://github.com/xyl1993/angular-note 基于ng6 + express的个人小项目 有源码跟数据库
+
 # nodeDemo
 Express4+angularjs1.4+bootstrap3+mysql+nodejs
 
